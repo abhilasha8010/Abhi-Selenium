@@ -1,3 +1,3 @@
 # Abhi-Selenium
-This is my First Git Reposatory.
+This is my first Git Reposatory.
 Author - Abhilasha Patil.
